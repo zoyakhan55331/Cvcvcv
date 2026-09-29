@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fiza AI</string>
+    <string name="assistant_title">Fiza</string>
+    <string name="assistant_subtitle">Your sassy, witty AI companion</string>
+    <string name="status_idle">Tap or say hi to start chatting</string>
+    <string name="status_connecting">Connecting with Fiza…</string>
+    <string name="status_listening">Listening to you…</string>
+    <string name="status_thinking">Thinking of something clever…</string>
+    <string name="status_speaking">Fiza is speaking…</string>
+</resources>

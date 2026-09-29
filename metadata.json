@@ -1,0 +1,6 @@
+{
+  "name": "Fiza AI",
+  "description": "Real-time voice-first AI assistant with an expressive, sassy, and witty personality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
